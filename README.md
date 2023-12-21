@@ -89,6 +89,7 @@ Compute canada training videos:
 Bioinformatics courses offered at UBC:
 * https://www.bioinformatics.ubc.ca/courses/ 
 * https://github.com/owensgl/biol525D
+* https://educe-ubc.github.io/MICB405/index.html
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
