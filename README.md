@@ -44,15 +44,13 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started-on-github">Getting Started on Github</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#github-desktop-download">Github Desktop Download</a></li>
+        <li><a href="#setting-up-a-github-account">Setting up a Github Account</a></li>
+        <li><a href="#Cloning-a-repo-to-your-computer">Cloning a repo to your computer</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -74,11 +72,19 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- HELPFUL RESOURCES -->
+## Helpful resources
+
+https://training.westdri.ca/
+https://ace-net.ca/training.html
+https://www.youtube.com/channel/UC4MnFGdOTSLjuWMwNCo5Zcg (there are recordings of a lot of the course/workshop materials)
+https://training.westdri.ca/events/upcoming-training-winter-spring-2023/ (should be a new link for the fall schedule)
+https://training.westdri.ca/domains/bioinfo/ (some bioinformatics specific info)
 
 <!-- GETTING STARTED ON GITHUB-->
 ## Getting Started on Github
 
-What is Github link.
+What is Github? https://blog.hubspot.com/website/what-is-github-used-for
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
@@ -95,7 +101,7 @@ This is an example of how to list things you need to use the software and how to
 Add URL instuctions here.
 
   
-### Cloning a repository to your computer
+### Cloning a repo to your computer
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -118,15 +124,20 @@ Add URL instuctions here.
 <!-- SERVER LOGINS AND GENERAL USAGE -->
 ## Servers
 
-  ```
-feh image.png
-  ```
+What computing resources exist for grad students and post docs in the Biodiversity Research Centre?
+What are these resources helpful for?
 
-# Login on Windows
+How to get started using them?
+- make an account through your lab or compute canada (more information below)
+- watch introductory videos and read information below
+- upload your data or test data to the server
+- try some basic processing
+
+### Login on Windows
 Download MobaXterm for working with the server on Windows:
 https://mobaxterm.mobatek.net/download.html
 
-# Login on a Mac or Linux
+### Login on a Mac or Linux
 Bring up the Terminal on your computer. 
 Type:
 
@@ -147,7 +158,7 @@ feh image.png
 <!-- SPECIFIC SERVER INFO -->
 ##Specific server info
 
-## Compute Canada
+### Compute Canada
 
 You can find the instructions to make your account here: 
 https://alliancecan.ca/en/services/advanced-research-computing/account-management/apply-account
@@ -156,7 +167,30 @@ You will need your lab's CCRI #
 If your lab does not yet have a Compute Canada account, any PI can apply here: 
 https://alliancecan.ca/en/services/advanced-research-computing/accessing-resources/rapid-access-service
 
-## Zoology servers
+  ```
+<username>@cedar.computecanada.ca
+<username>@graham.computecanada.ca
+<username>@beluga.computecanada.ca
+<username>@narval.computecanada.ca
+  ```
+
+To find out when the servers are down you can look at the status information: https://status.alliancecan.ca/
+
+Best practices for using the Compute Canada servers:
+Login and moving data  https://www.youtube.com/watch?v=8silMRq2iUg 
+Running jobs: https://www.youtube.com/watch?v=EY-NIGhCnhQ
+
+Technical documentation: https://docs.alliancecan.ca/wiki/Technical_documentation
+
+More videos:
+https://www.youtube.com/@WestDRI
+
+### Globus data transfer
+Accessing data on Compute Canada can be done through Globus (GUI).
+Login here with your compute canada account: https://www.globus.org/data-transfer
+Move files between locations under File Manager. 
+
+### Zoology servers
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -164,7 +198,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Botany servers
+### Botany servers
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -184,6 +218,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/ubc-biodiversity-bioinformatics/General/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SPECIFIC LAB GITHUB PAGES -->
+## Specific lab github pages
+
+* [Rieseberg Lab](https://github.com/rieseberglab)
+* []()
+* []()
 
 
 <!-- OTHER RELEVANT LINKS -->
