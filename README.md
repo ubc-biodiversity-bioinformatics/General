@@ -272,7 +272,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-If you ahve questions please contact:
+If you have questions please contact:
 
 Your Name - email@email_client.com
 
