@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://biodiversity.ubc.ca/">
-    <img src="images/logo.png" alt="Logo" width="300" height="150">
+    <img src="images/logo.png" alt="Logo" width="330" height="150">
   </a>
 
 <h3 align="center">Beaty Biodiversity Centre Bioinformatics Resources</h3>
@@ -98,6 +98,8 @@ Make a note of your username to send to XX to get added to the BRC Biodiversity 
 ### Cloning a repo to your computer
 
 1. Open the Github Desktop App on your computer. 
+
+[![Product Name Screen Shot][product-screenshot]](https://desktop.github.com/)
 
 2. Go to the top left. 
 Under 'Add' select 'Clone the repository'. \
@@ -207,11 +209,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Image example
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 
 <!-- FURTURE CODE -->
 ## Future suggested code to add
