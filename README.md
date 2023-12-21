@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://biodiversity.ubc.ca/">
-    <img src="images/logo.png" alt="Logo" width="330" height="150">
+    <img src="images/logo.png" alt="Logo" width="650" height="300">
   </a>
 
 <h3 align="center">Beaty Biodiversity Centre Bioinformatics Resources</h3>
