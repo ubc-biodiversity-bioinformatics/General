@@ -141,12 +141,11 @@ To do this you may also need to download the most recent version of the repo wit
 
 What computing resources exist for grad students and post docs in the Biodiversity Research Centre? \
 What are these resources helpful for? \
-
-How to get started using them? \
-- make an account through your lab or compute canada (more information below) \
-- watch introductory videos and read information below \
-- upload your data or test data to the server \
-- try some basic processing \
+How to get started using them? 
+- make an account through your lab or compute canada (more information below) 
+- watch introductory videos and read information below 
+- upload your data or test data to the server 
+- try some basic processing 
 
 ### Login on Windows
 Download MobaXterm for working with the server on Windows:
