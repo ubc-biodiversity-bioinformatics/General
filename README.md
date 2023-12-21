@@ -72,16 +72,16 @@ Here's a blank template to get started. We will need to:
 <!-- HELPFUL RESOURCES -->
 ## Helpful resources
 
-* Compute canada training videos: 
-** https://training.westdri.ca/ \
-** https://ace-net.ca/training.html \
-** https://www.youtube.com/channel/UC4MnFGdOTSLjuWMwNCo5Zcg (there are recordings of a lot of the course/workshop materials) \
-** https://training.westdri.ca/events/upcoming-training-winter-spring-2023/ (should be a new link for the fall schedule) \
-** https://training.westdri.ca/domains/bioinfo/ (some bioinformatics specific info) 
+Compute canada training videos: \
+* https://training.westdri.ca/ \
+* https://ace-net.ca/training.html \
+* https://www.youtube.com/channel/UC4MnFGdOTSLjuWMwNCo5Zcg (there are recordings of a lot of the course/workshop materials) \
+* https://training.westdri.ca/events/upcoming-training-winter-spring-2023/ (should be a new link for the fall schedule) \
+* https://training.westdri.ca/domains/bioinfo/ (some bioinformatics specific info) 
 
-* Bioinformatics courses:
-** https://www.bioinformatics.ubc.ca/courses/ \
-** https://github.com/owensgl/biol525D
+Bioinformatics courses:\
+* https://www.bioinformatics.ubc.ca/courses/ \
+* https://github.com/owensgl/biol525D
 
 
 <!-- GETTING STARTED ON GITHUB-->
