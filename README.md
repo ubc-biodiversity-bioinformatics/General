@@ -113,7 +113,8 @@ Under the General repo there should be a new change shown with the blue circle n
 The changes you made should be listed under 'Changes' whn you click on the repo name 'General'. \
 Add a short summary of the change you made to 'Summary (required)' and press 'Commit'.
 
-6. You can make your changes go live on the online Github repo by pressing 
+6. You can make your changes go live on the online Github repo by pressing 'Push origin'. 
+To do this you may also need to download the most recent version of the repo with the 'Pull origin' command.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -121,14 +122,14 @@ Add a short summary of the change you made to 'Summary (required)' and press 'Co
 <!-- SERVER LOGINS AND GENERAL USAGE -->
 ## Servers
 
-What computing resources exist for grad students and post docs in the Biodiversity Research Centre?
-What are these resources helpful for?
+What computing resources exist for grad students and post docs in the Biodiversity Research Centre? \
+What are these resources helpful for? \
 
-How to get started using them?
-- make an account through your lab or compute canada (more information below)
-- watch introductory videos and read information below
-- upload your data or test data to the server
-- try some basic processing
+How to get started using them? \
+- make an account through your lab or compute canada (more information below) \
+- watch introductory videos and read information below \
+- upload your data or test data to the server \
+- try some basic processing \
 
 ### Login on Windows
 Download MobaXterm for working with the server on Windows:
