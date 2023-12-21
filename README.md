@@ -20,19 +20,15 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Beaty Biodiversity Centre Bioinformatics Resources</h3>
 
   <p align="center">
-    project_description
+    A location to learn about how to use the compute resources available to students in the BRC and share code.
     <br />
     <a href="https://github.com/ubc-biodiversity-bioinformatics/General"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ubc-biodiversity-bioinformatics/General">View Demo</a>
-    ·
     <a href="https://github.com/ubc-biodiversity-bioinformatics/General/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ubc-biodiversity-bioinformatics/General/issues">Request Feature</a>
   </p>
 </div>
 
