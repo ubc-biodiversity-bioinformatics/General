@@ -147,6 +147,8 @@ How to get started using them?
 - upload your data or test data to the server 
 - try some basic processing 
 
+## How to login to a server?
+
 ### Login on Windows
 Download MobaXterm for working with the server on Windows:
 https://mobaxterm.mobatek.net/download.html
