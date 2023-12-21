@@ -177,12 +177,12 @@ feh image.png
 
 ### Compute Canada
 
-You can find the instructions to make your account here: 
-https://alliancecan.ca/en/services/advanced-research-computing/account-management/apply-account
-https://docs.alliancecan.ca/mediawiki/images/2/24/Getting_An_Account.pdf
-You will need your lab's CCRI #
-If your lab does not yet have a Compute Canada account, any PI can apply here: 
-https://alliancecan.ca/en/services/advanced-research-computing/accessing-resources/rapid-access-service
+You can find the instructions to make your account here: \
+https://alliancecan.ca/en/services/advanced-research-computing/account-management/apply-account \
+https://docs.alliancecan.ca/mediawiki/images/2/24/Getting_An_Account.pdf \
+You will need your lab's CCRI #\
+If your lab does not yet have a Compute Canada account, any PI can apply here: \
+https://alliancecan.ca/en/services/advanced-research-computing/accessing-resources/rapid-access-service\
 
   ```
 ssh <username>@cedar.computecanada.ca
