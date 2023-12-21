@@ -8,10 +8,6 @@
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -69,11 +65,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- HELPFUL RESOURCES -->
 ## Helpful resources
 
-https://training.westdri.ca/ \
-https://ace-net.ca/training.html \
-https://www.youtube.com/channel/UC4MnFGdOTSLjuWMwNCo5Zcg (there are recordings of a lot of the course/workshop materials) \
-https://training.westdri.ca/events/upcoming-training-winter-spring-2023/ (should be a new link for the fall schedule) \
-https://training.westdri.ca/domains/bioinfo/ (some bioinformatics specific info) \
+* https://training.westdri.ca/ \
+* https://ace-net.ca/training.html \
+* https://www.youtube.com/channel/UC4MnFGdOTSLjuWMwNCo5Zcg (there are recordings of a lot of the course/workshop materials) \
+* https://training.westdri.ca/events/upcoming-training-winter-spring-2023/ (should be a new link for the fall schedule) \
+* https://training.westdri.ca/domains/bioinfo/ (some bioinformatics specific info) \
+
 
 <!-- GETTING STARTED ON GITHUB-->
 ## Getting Started on Github
@@ -84,28 +81,33 @@ To get a local copy up and running follow these simple example steps.
 
 ### Github Desktop Download
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Steps:
+* Go to: https://desktop.github.com/
+* Click the purple download button
+* Follow the instructions to install on your machine
 
 ### Setting up a Github account
 
-Add URL instuctions here.
-
+Make a Github account by following the instructions here: https://docs.github.com/en/get-started/quickstart/creating-an-account-on-github
+Make a note of your username to send to XX to get added to the BRC Biodiversity Github organization. 
   
 ### Cloning a repo to your computer
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/ubc-biodiversity-bioinformatics/General.git
+1. Open the Github Desktop App on your computer. 
+
+2. Go to the top left. 
+Under 'Add' select 'Clone the repository'. \
+Under the URL tab paste the following URL: \
    ```
-3. Install NPM packages
-   ```sh
-   npm install
+   https://github.com/ubc-biodiversity-bioinformatics/General.git
    ```
+3. Choose the path you would like to save the code to on your computer. \
+Note that this folder that you select will be tracked by git and has version control. \
+Click 'Clone'. This should download the repo to your computer. \
+
+3. To try editing 
+
+
 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
