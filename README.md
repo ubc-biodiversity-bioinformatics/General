@@ -16,7 +16,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ubc-biodiversity-bioinformatics/General">
+  <a href="https://biodiversity.ubc.ca/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
