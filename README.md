@@ -63,9 +63,9 @@
 ## About The Project
 
 Here's a blank template to get started. We will need to:
-* update the table of contents \
-* fill in more details \
-* add a list of useful code to share here\
+* update the table of contents 
+* fill in more details and add more screenshots
+* add a list of useful code to share here and find people to share it
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,8 +161,9 @@ ssh <username>@servername.ubc.ca
   ```
 The names of specific servers are given below.
 
-## Software for code editing
-VS Code and Notepad++
+## Recommended software for code editing
+VS Code: https://code.visualstudio.com/ \
+Notepad++: https://notepad-plus-plus.org/downloads/ \
 
 ## Visualizing images/directories on the servers
 https://sourceforge.net/projects/xming/
