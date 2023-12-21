@@ -105,17 +105,13 @@ Under the URL tab paste the following URL: \
 Note that this folder that you select will be tracked by git and has version control. \
 Click 'Clone'. This should download the repo to your computer. \
 
-3. To try editing 
+4. Navigate to the Github folder local path on your computer.\
+To try editing a file through Github Desktop, add your name to the 'Add-your-name-here.txt' text document in the 'Test' folder. 
 
-
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+5. Once you have edited the file on your computer, go back to the Github Desktop app. \
+Under the General repo there should be a new change shown with the blue circle 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- SERVER LOGINS AND GENERAL USAGE -->
 ## Servers
