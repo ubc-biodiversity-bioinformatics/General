@@ -66,9 +66,6 @@ Here's a blank template to get started. We will need to:
 * fill in more details and add more screenshots
 * add a list of useful code to share here and find people to share it
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## Servers
 What computing resources exist for grad students and post docs in the Biodiversity Research Centre? \
 What are these resources helpful for? \
@@ -93,6 +90,7 @@ Bioinformatics courses offered at UBC:
 * https://www.bioinformatics.ubc.ca/courses/ 
 * https://github.com/owensgl/biol525D
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED ON GITHUB-->
 ## Getting Started on Github
@@ -173,6 +171,8 @@ https://sourceforge.net/projects/xming/
 feh image.png
   ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- SPECIFIC SERVER INFO -->
 ##Specific server info
 There are many servers that students in the BRC can get access to. \
@@ -227,7 +227,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- FURTURE CODE -->
 ## Future suggested code to add
 
@@ -238,22 +237,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/ubc-biodiversity-bioinformatics/General/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- SPECIFIC LAB GITHUB PAGES -->
-## Specific lab github pages
+## Specific lab github pages in the BRC
 
 * [Rieseberg Lab](https://github.com/rieseberglab)
 * []()
 * []()
 
-
-<!-- OTHER RELEVANT LINKS -->
-## Other relevant links
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
