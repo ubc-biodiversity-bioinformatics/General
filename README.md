@@ -72,11 +72,16 @@ Here's a blank template to get started. We will need to:
 <!-- HELPFUL RESOURCES -->
 ## Helpful resources
 
-* https://training.westdri.ca/ \
-* https://ace-net.ca/training.html \
-* https://www.youtube.com/channel/UC4MnFGdOTSLjuWMwNCo5Zcg (there are recordings of a lot of the course/workshop materials) \
-* https://training.westdri.ca/events/upcoming-training-winter-spring-2023/ (should be a new link for the fall schedule) \
-* https://training.westdri.ca/domains/bioinfo/ (some bioinformatics specific info) \
+* Compute canada training videos: 
+** https://training.westdri.ca/ \
+** https://ace-net.ca/training.html \
+** https://www.youtube.com/channel/UC4MnFGdOTSLjuWMwNCo5Zcg (there are recordings of a lot of the course/workshop materials) \
+** https://training.westdri.ca/events/upcoming-training-winter-spring-2023/ (should be a new link for the fall schedule) \
+** https://training.westdri.ca/domains/bioinfo/ (some bioinformatics specific info) 
+
+* Bioinformatics courses:
+** https://www.bioinformatics.ubc.ca/courses/ \
+** https://github.com/owensgl/biol525D
 
 
 <!-- GETTING STARTED ON GITHUB-->
@@ -200,21 +205,19 @@ Accessing data on Compute Canada can be done through Globus (GUI).
 Login here with your compute canada account: https://www.globus.org/data-transfer
 Move files between locations under File Manager. 
 
-### Zoology servers
+### Zoology and Botany servers
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+  ```
+<username>@mrfox.zoology.ubc.ca
+
+  ```
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Botany servers
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FURTURE CODE -->
 ## Future suggested code to add
