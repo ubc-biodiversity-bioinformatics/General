@@ -79,7 +79,7 @@ Compute canada training videos:
 * https://training.westdri.ca/events/upcoming-training-winter-spring-2023/ (should be a new schedule each term) 
 * https://training.westdri.ca/domains/bioinfo/ (some bioinformatics specific info) 
 
-Bioinformatics courses:\
+Bioinformatics courses:
 * https://www.bioinformatics.ubc.ca/courses/ 
 * https://github.com/owensgl/biol525D
 
@@ -184,10 +184,10 @@ If your lab does not yet have a Compute Canada account, any PI can apply here:
 https://alliancecan.ca/en/services/advanced-research-computing/accessing-resources/rapid-access-service
 
   ```
-<username>@cedar.computecanada.ca
-<username>@graham.computecanada.ca
-<username>@beluga.computecanada.ca
-<username>@narval.computecanada.ca
+ssh <username>@cedar.computecanada.ca
+ssh <username>@graham.computecanada.ca
+ssh <username>@beluga.computecanada.ca
+ssh <username>@narval.computecanada.ca
   ```
 
 To find out when the servers are down you can look at the status information: https://status.alliancecan.ca/
@@ -208,11 +208,15 @@ Move files between locations under File Manager.
 
 ### Zoology and Botany servers
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+To access the UBC Zoology servers you must be signed into either one of the Compute Canada servers listed above to tunnel in or be connected to the UBC VPN.
 
+You can find out how to connect to the UBC VPN here: https://it.ubc.ca/services/email-voice-internet/myvpn
+
+Below are some of the server names. You can get access to these servers by contacting XX (Zoology) or XX (Botany). 
   ```
-<username>@mrfox.zoology.ubc.ca
-
+ssh <username>@mrfox.zoology.ubc.ca
+ssh <username>@darjeeling.zoology.ubc.ca
+ssh <username>@moonrise.zoology.ubc.ca
   ```
 
 _For more examples, please refer to the [Documentation](https://example.com)_
