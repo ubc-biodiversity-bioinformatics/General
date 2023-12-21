@@ -69,6 +69,16 @@ Here's a blank template to get started. We will need to:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## Servers
+What computing resources exist for grad students and post docs in the Biodiversity Research Centre? \
+What are these resources helpful for? \
+How to get started using them? 
+- make an account through your lab or compute canada (more information below) 
+- watch introductory videos and read information below 
+- upload your data or test data to the server 
+- try some basic processing 
+
 <!-- HELPFUL RESOURCES -->
 ## Helpful resources
 
@@ -137,17 +147,8 @@ To do this you may also need to download the most recent version of the repo wit
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SERVER LOGINS AND GENERAL USAGE -->
-## Servers
-
-What computing resources exist for grad students and post docs in the Biodiversity Research Centre? \
-What are these resources helpful for? \
-How to get started using them? 
-- make an account through your lab or compute canada (more information below) 
-- watch introductory videos and read information below 
-- upload your data or test data to the server 
-- try some basic processing 
-
 ## How to login to a server?
+Below are instructions for how to login to any server using a Window, Mac or Linux machine.
 
 ### Login on Windows
 Download MobaXterm for working with the server on Windows:
@@ -174,6 +175,8 @@ feh image.png
 
 <!-- SPECIFIC SERVER INFO -->
 ##Specific server info
+There are many servers that students in the BRC can get access to. \
+Instructions below go over some of these servers and how to get an account, login and have videos describing basic best practices.
 
 ### Compute Canada
 
