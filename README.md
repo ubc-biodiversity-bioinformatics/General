@@ -62,8 +62,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -71,11 +69,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- HELPFUL RESOURCES -->
 ## Helpful resources
 
-https://training.westdri.ca/
-https://ace-net.ca/training.html
-https://www.youtube.com/channel/UC4MnFGdOTSLjuWMwNCo5Zcg (there are recordings of a lot of the course/workshop materials)
-https://training.westdri.ca/events/upcoming-training-winter-spring-2023/ (should be a new link for the fall schedule)
-https://training.westdri.ca/domains/bioinfo/ (some bioinformatics specific info)
+https://training.westdri.ca/ \
+https://ace-net.ca/training.html \
+https://www.youtube.com/channel/UC4MnFGdOTSLjuWMwNCo5Zcg (there are recordings of a lot of the course/workshop materials) \
+https://training.westdri.ca/events/upcoming-training-winter-spring-2023/ (should be a new link for the fall schedule) \
+https://training.westdri.ca/domains/bioinfo/ (some bioinformatics specific info) \
 
 <!-- GETTING STARTED ON GITHUB-->
 ## Getting Started on Github
