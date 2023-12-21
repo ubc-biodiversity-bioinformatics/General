@@ -73,8 +73,9 @@ Here's a blank template to get started. We will need to:
 What computing resources exist for grad students and post docs in the Biodiversity Research Centre? \
 What are these resources helpful for? \
 How to get started using them? 
-- make an account through your lab or compute canada (more information below) 
+- make a server account through your lab or compute canada (more information below) 
 - watch introductory videos and read information below 
+- make a github account (more information below)
 - upload your data or test data to the server 
 - try some basic processing 
 
