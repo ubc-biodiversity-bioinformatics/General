@@ -89,7 +89,7 @@ Compute canada training videos:
 * https://training.westdri.ca/events/upcoming-training-winter-spring-2023/ (should be a new schedule each term) 
 * https://training.westdri.ca/domains/bioinfo/ (some bioinformatics specific info) 
 
-Bioinformatics courses:
+Bioinformatics courses offered at UBC:
 * https://www.bioinformatics.ubc.ca/courses/ 
 * https://github.com/owensgl/biol525D
 
