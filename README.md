@@ -109,7 +109,12 @@ Click 'Clone'. This should download the repo to your computer. \
 To try editing a file through Github Desktop, add your name to the 'Add-your-name-here.txt' text document in the 'Test' folder. 
 
 5. Once you have edited the file on your computer, go back to the Github Desktop app. \
-Under the General repo there should be a new change shown with the blue circle 
+Under the General repo there should be a new change shown with the blue circle next to the repo name. \
+The changes you made should be listed under 'Changes' whn you click on the repo name 'General'. \
+Add a short summary of the change you made to 'Summary (required)' and press 'Commit'.
+
+6. You can make your changes go live on the online Github repo by pressing 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
