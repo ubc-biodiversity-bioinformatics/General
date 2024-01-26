@@ -168,6 +168,11 @@ Notepad++: https://notepad-plus-plus.org/downloads/ \
 
 ## Visualizing images/directories on the servers
 https://sourceforge.net/projects/xming/
+```
+xdg-open image.png
+```
+
+More simply: 
   ```
 feh image.png
   ```
