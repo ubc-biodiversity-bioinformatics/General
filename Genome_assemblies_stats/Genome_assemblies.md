@@ -1,6 +1,6 @@
 
-<!-- TITLE -->
-## Title
+<!-- Genome Assemblies -->
+## Genome assemblies
 
 Here's a blank template to get started. We will need to:
 * fill in more details and add more screenshots
