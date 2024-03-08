@@ -16,6 +16,7 @@ Assembly quality
 
 Base calling from ONT Nanopore fast5 files
 * https://github.com/nanoporetech/bonito 
+* Other tools for Nanopore assemblies: https://www.nature.com/articles/s41587-021-01108-x/tables/1
 
 Contig assembly 
 * PacBio: Hifiasm https://github.com/chhylp123/hifiasm
@@ -31,15 +32,31 @@ HiC Scaffolding
 * Salsa https://github.com/marbl/SALSA 
 
 HiC Map editing
-* 3D DNA 
-* Juicer 
+* 3D DNA https://github.com/aidenlab/3d-dna
+* Juicer  https://github.com/aidenlab/juicer/wiki/Usage
 * Juicebox - online version cannot edit https://aidenlab.org/juicebox/ 
 
+Ragtag genome scaffolding
+* https://github.com/malonge/RagTag/wiki/scaffold 
+
 Methylation calling 
-* Nanopore Remora
+* Nanopore Remora: https://github.com/nanoporetech/remora
 
 <!-- Assembly Quality  -->
 ## Evaluating Genome Assembly Quality
+
+To download a genome assembly from ncbi go to the genome page: https://www.ncbi.nlm.nih.gov/genome/
+Search the genome you are interested in: "Duck"
+Under genomes click browse all X genomes 
+
+Select the most recent chromosome scale assembly: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_008746955.3/
+
+Click on the three vertical dots --> See more files on FTP
+
+   ```
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/746/955/GCA_008746955.3_CAU-Wild1.1/GCA_008746955.3_CAU-Wild1.1_genomic.fna.gz
+
+   ```
 
 ### General stats
 There are a number of statistics that can be used to evaluate a genome assembly. This github package provides a number of them for any input fasta file.
@@ -193,10 +210,11 @@ busco --offline --in  Oxyria_digyna.fasta  \
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- Contig assembly-->
-## Contig assembly
+<!-- Fast5 to Fastq-->
+## Nanopore fast5 files to fstq files
 
-https://github.com/nanoporetech/bonito 
+Open source https://github.com/nanoporetech/bonito 
+Also Guppy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,9 +255,11 @@ salloc -c32 --time 23:50:00 --mem 1510G --account def-henryg
  /home/celphin/projects/def-henryg/celphin/Oxyria/PacBio/PacBio_Aug2022/HiFi-ccs_reads.tar.gz
    ```
 
-Shasta
-   ```
+I have used Shasta for Nanopore data
+Other potential programs described here: https://www.nature.com/articles/s41587-021-01108-x/tables/1
 
+   ```
+Code to come
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
