@@ -18,9 +18,7 @@ Sequence
     ```awk '{ gsub(/\*/, "X"); print }' Protein_file.fasta > protein_file_interproscan_input.fasta```
 - To get number of scaffolds
 
-    ```
-    grep ">" file.fasta | wc -l 
-    ```
+    ```grep ">" file.fasta | wc -l ```
 
 
 ## GFF and GFF3 files
@@ -46,7 +44,15 @@ Sequence
 
 #### Helpful notes on formatting:
 
-### Resources for gff and gff3 files
+#### Resources for gff and gff3 files
 - https://plastid.readthedocs.io/en/latest/concepts/gff3.html
 - https://learn.gencore.bio.nyu.edu/ngs-file-formats/gff3-format/
 
+## BED files
+- extensions: .bed, bedGraph
+
+#### Format:
+Chr Start End 
+
+#### Resources 
+https://bedtools.readthedocs.io/en/latest/
